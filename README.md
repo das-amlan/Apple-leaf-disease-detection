@@ -14,7 +14,6 @@ The dataset used in this project is the [Apple Tree Leaf Disease Dataset](https:
 
 ![Apple Leaves](appleLeaves.png)
 
-The dataset was extracted from a zip file (`archive.zip`) into the `extracted_content` directory.
 
 **Dataset Overview:**
 
